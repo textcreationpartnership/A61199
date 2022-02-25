@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bride-womans counseller being a sermon preach'd at a wedding, May the 11th, 1699, at Sherbourn, in Dorsetshire / by John Sprint.</title>
+            <author>Sprint, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61199</idno>
+            <idno type="STC">Wing S5084</idno>
+            <idno type="STC">ESTC T29597</idno>
+            <idno type="EEBO-CITATION">12484468</idno>
+            <idno type="OCLC">ocm 12484468</idno>
+            <idno type="VID">62275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 298:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bride-womans counseller being a sermon preach'd at a wedding, May the 11th, 1699, at Sherbourn, in Dorsetshire / by John Sprint.</title>
+                  <author>Sprint, John.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills ... for the benefit of the poor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Clark Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st, VII, 34 --  Sermons.</term>
+               <term>Wedding sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62275:1" rendition="simple:additions"/>
+            <p>THE Bride-Womans <hi>CO<g ref="char:V">Ʋ</g>NSELLER.</hi> BEING A SERMON PREACH'D at a WEDDING, <hi>May</hi> the 11th, 1699, at <hi>Sherbourn,</hi> in <hi>Dorſetſhire.</hi>
+            </p>
+            <q>
+               <bibl>1 COR. Chap. 7. Ver. 34.</bibl>
+               <p>But ſhe thrt is Married careth for the things of the World, how ſhe may pleaſe her Husband.</p>
+            </q>
+            <p>By <hi>JOHN SPRINT.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>H. Hills,</hi> in <hi>Black-fryars,</hi> near the Wa<g ref="char:EOLhyphen"/>ter-ſide. For the Benefit of the Poor.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:62275:2"/>
+            <head>The EPISTLE to the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Courteous READER,</salute>
+            </opener>
+            <p>WHEN thou haſt peruſed this Diſcourſe, thou wilt ſee Cauſe enough to believe me if I tell thee it was deſigned only for the Pulpit, not for the Preſs; but it hath ſo fallen out, that the Doctrine therein contained is ſo unhappily repreſented to the World by ſome ill-natur'd Females, that I am neceſſita<g ref="char:EOLhyphen"/>ted to offer it to a Publick View; by means of which, tho' I ſhou'd purchaſe the Character of a Block-head, yet I hope I ſhall get the advantage of convin<g ref="char:EOLhyphen"/>cing the World that I am not ſuch an impudent Villain as my waſpiſh Accuſers have reported me to be. Be it known unto thee Reader, whoſoever thou art, that I have not met with one Woman among all my Ac<g ref="char:EOLhyphen"/>cuſers whoſe Husband is able to give her the Charact<g ref="char:EOLhyphen"/>er of a dutiful and obedient Wife. I obſerve alſo, that good Wives are no more offended with my diſcourſe than modeſt Matrons are when vile Strumpets are painted in their proper Colours; the moſt that ſuch have to ſay, is, that I might have done well to have ſaid as much to the Men, which for their ſatisfaction I will promiſe to do, when I ſee this Diſcourſe hath had that happy Succeſs as to reform thoſe imperious Wives, who never think their Husbands love them well, unleſs they will obey them too.</p>
+            <p>Upon the whole, I find 'tis Womens Guilt which makes them ſo uneaſy, and puts them to that pain which they feel in their Con<g ref="char:EOLhyphen"/>ſciences, for which I know no better an <hi>Anodyne</hi> than a ſpeedy Repentance and Reformation; which if they neglect, in deſpight of all their loud noiſe and clamours, the Truths which I here publiſh will purſue them to Judgment, and there witneſs againſt them, not only as Traitors to their Husbands, whoſe Authority they uſurp, but as Rebels to the Great Monarch of the World whoſe Sacred Laws they Impiouſly violate.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:62275:2"/>
+            <head>
+               <q>
+                  <bibl>1 COR. Chap. 7. Ver. 34.</bibl>
+                  <p>But ſhe that is Married, careth for the things of the World, how ſhe may pleaſe her Husband.</p>
+               </q>
+            </head>
+            <p>THE Word <hi>Careth,</hi> in the Original ſignifieth more than ordinary Care, and implies a divi<g ref="char:EOLhyphen"/>ding of the Mind into divers Thoughts, caſting this way, and that way, and every way, how to give beſt content. Finding no other Verbal Difficulties, I ſhall leave <hi>Words</hi> and paſs to <hi>Things,</hi> and ſhall lay the Foundation of my Diſcourſe in this Propoſition.</p>
+            <p>
+               <hi>It is a Duty incumbent on all Morried Women, to be extra<g ref="char:EOLhyphen"/>ordinary careful to content and pleaſe their Husbands.</hi>
+            </p>
+            <p>From which Doctrine, I ſhall take occaſion faithful<g ref="char:EOLhyphen"/>ly to preſent the Duty of married Women to their Hus<g ref="char:EOLhyphen"/>bands.</p>
+            <p>
+               <hi>Obj.</hi> And why ſo? (may the Women ſay) why could not you have pitch'd upon <hi>v.</hi> 33. and have tak<g ref="char:EOLhyphen"/>en occaſion from thence to have told married Men their Duty to their Wives? Or, if we muſt be told our Du<g ref="char:EOLhyphen"/>ty, why could you not have come to a Compoſition with us and have brought our Husbands in to have ſhared with us?</p>
+            <p>
+               <hi>A.</hi> Truly I foreſaw not only theſe, but a whole <hi>Iliad</hi> of Female Objections, would be ſtarted againſt my Deſign but if Reaſon may take place, I hope I am able to ſi<g ref="char:EOLhyphen"/>lence them all: And here, amongſt the many Reaſon, which might be produc'd to juſtify my Attempt, I ſhall only offer to your Conſideration theſe few.</p>
+            <p n="1">1. Becauſe the Woman's Duty is harder and more difficult than that of the Man: Precepts for Ruling and Governing are more taking, and have a more pleaſing reliſh, than thoſe which enjoyn Subjection and Obedi<g ref="char:EOLhyphen"/>ence.
+<pb n="4" facs="tcp:62275:3"/>You Women will acknowledge that Men can learn to command, and rule faſt enough, which as Hus<g ref="char:EOLhyphen"/>bands they ought to do; but 'tis very rare to find that Women learn ſo faſt to Submit and obey, which as Wives they ought to do: Women have need of <hi>Line upon Line, Precept upon Precept, here a Little and there a Little;</hi> and all little enough to make them perfect in their Leſſon.</p>
+            <p n="2">2. Becauſe Women are of weaker Capacities to learn than Men, and therefore when they have a hard and difficult Leſſon, and but weak Abilities to learn it, they had need of more Help and Aſſiſtance afforded them; and ſo it behoves us not only to tell them their Duty in Conjunction with their Husbands, but alſo to teach them ſingly and by themſelves.</p>
+            <p n="3">3. Becauſe that (according to the Obſervation which I have made) moſt of thoſe Diſtractions and Diſtur<g ref="char:EOLhyphen"/>bances which have attended a Married Life, and that have brought ſo much Reproach and Diſgrace on that Honourable State, are owing to the Indiſcretion and Fol<g ref="char:EOLhyphen"/>ly, if not to the Obſtinacy and Stubborneſs of diſobedi<g ref="char:EOLhyphen"/>ent Wives; and I ſhall not ſcruple to affirm, that the number of thoſe bad Husbands, which their Wives have made ſo, is greater by far than the Number of thoſe whom their Wives have found ſo when they were firſt married.</p>
+            <p n="4">4. Becauſe the Love of a Husband does very much de<g ref="char:EOLhyphen"/>pend upon the Obedience of a Wife; Stubbornneſs and Obſtinacy in a Wife may check and quench the Affec<g ref="char:EOLhyphen"/>tions of an Husband, but are no proper Methods to kindle and enflame themſelves. When the Wife be<g ref="char:EOLhyphen"/>comes pliant and yielding to her Husband's VVill and Deſire, ſhe then lead him captive at her pleaſure, and leaves him ſo faſt bound in the golden Fetters of Love, that ſhe may do even with him what ſhe pleaſes. <hi>An o<g ref="char:EOLhyphen"/>bedient Wife,</hi> (ſays one) <hi>is the likelieſt Woman in the World to command her Husband:</hi> So that, in plain Terms, you are more afraid than hurt, and inſtead of being ſo ſcrupulous of having your Duty told you, you ſhould
+<pb n="5" facs="tcp:62275:3"/>uſe your utmoſt Diligence to learn and practiſe it, if e<g ref="char:EOLhyphen"/>ver you mean to have your Husbands loving and kind to you.</p>
+            <p n="5">5. Becauſe that all that pretend to, is to lay your Du<g ref="char:EOLhyphen"/>ty before you; and ſhall I therefore become your Ene<g ref="char:EOLhyphen"/>my, becauſe I am come to tell you the Truth? As for good VVives, the Knowledge and Practiſe of their Du<g ref="char:EOLhyphen"/>ty is ſo comfortable and pſeaſant to them, that I am ſure they are not liſted in the number of theſe Objectors, and I wiſh, that where there is one of theſe there where a thouſand; as for Bad ones, I am ſure they have need of being told their Duty more than a little, and of this ſort I wiſh there were none at all: And if by poor En<g ref="char:EOLhyphen"/>deavours in this Diſcourſe, I can but be inſtrumental ei<g ref="char:EOLhyphen"/>ther of leſſening their Number, or of preventing their Increaſe, I ſhall obtain my End. Under the ſhelter of theſe Reaſons I ſhall adventure in the Face of all Objec<g ref="char:EOLhyphen"/>tions to perſue my Deſign, which is to proſecute this Doctrine, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That 'tis a Duty incumbent on all married Women to be extra<g ref="char:EOLhyphen"/>ordinary Careful to content and pleaſe their HUSBANDS,</hi> which I ſhall do in this Method.</p>
+            <list>
+               <item>1. Prove it by Reaſon and Argument.</item>
+               <item>2. Shew how and which way married Women muſt endeavour to pleaſe their Husbands.</item>
+               <item>3. Make ſome Improvement of it.</item>
+            </list>
+            <p>The Reaſons of the Doctrine are ſuch as theſe:</p>
+            <p n="1">1. Becauſe the Woman was made for the Comfort and Benefit of Man [<hi>Cor.</hi> 11.9.] <hi>Neither was Man cre<g ref="char:EOLhyphen"/>ated for the Woman, but the Woman for the Man:</hi> The great End of her Creation (next the Glory of God) was, that ſhe might be ſerviceable and helpful unto Man; and therefore you find, when the wiſe Creator was about to make the Woman, he aſſigns this very Reaſon for it, [<hi>Gen.</hi> 2.18.] <hi>And the Lord God ſaid, It is not good that Man ſhould be alone, I will make an Help meet for him.</hi>
+            </p>
+            <p>Now if the Woman owes her Being to the Comfort and Profit of Man, 'tis highly reaſonable that ſhe ſhould
+<pb n="6" facs="tcp:62275:4"/>be careful and diligent to content and pleaſe him, other<g ref="char:EOLhyphen"/>wiſe ſhe doth wickedly pervert the End of her Creati<g ref="char:EOLhyphen"/>on.</p>
+            <p n="2">2. Becauſe of the Woman's Occaſion the Man was ruined and undone [1. <hi>Tim.</hi> 2.14.] <hi>And Adam was not deceived, the Woman being deceived was in the Tranſgreſ<g ref="char:EOLhyphen"/>ſion;</hi> That is, <hi>Adam</hi> was not at firſt deceiv'd immedi<g ref="char:EOLhyphen"/>ately by the <hi>Serpent,</hi> but only enticed and deceived by the Woman, who was the Tempter's Agents; ſo as that ſhe was both firſt in the Tranſgreſſion, in order of Time, and alſo the Principle, in contributing to the Seduction of Man; therefore 'tis but fit and juſt, that ſhe, who hath been ſo greatly inſtrumental of ſo much Miſchief and Miſery to Man, ſhould be actively engaged to pleaſe and comfort him: And indeed we find that God im<g ref="char:EOLhyphen"/>poſed this Task upon her, as a puniſhment for ſeducing her Husband, [<hi>Gen.</hi> 3.16.] <hi>And thy deſire ſhall be to thy Husband, and He ſhall rule over thee:</hi> Wherein is impli<g ref="char:EOLhyphen"/>ed, not only Subjection to him, in obeying his Com<g ref="char:EOLhyphen"/>mands, but it reacheth farther to the bringing under un<g ref="char:EOLhyphen"/>to him the very Deſires of the Heart to be regulated by him ſo far, that it ſhould not be lawful for her to will or deſire what ſhe her ſelf liked, but only what her Hus<g ref="char:EOLhyphen"/>band ſhould approve and allow; even before the Fall, the Will of the Husband was to have been the Woman's <hi>Directory,</hi> as is evident from the foregoing Reaſon, her Compliance with which had beeh eaſy and pleaſant; but ſince the Fall, Man is grown more humourſome, and hard to be pleaſed, and Woman leſs able and wil<g ref="char:EOLhyphen"/>ling to do it; which being ſo thro' her own means, it was but juſt and righteous with God to impoſe a Work upon her, which her ſelf made ſo hard and difficult; and therefore 'tis not the Woman's pleading, that her Husband is hard to be pleaſed, that will excuſe her Neg<g ref="char:EOLhyphen"/>ligence herein: This may, indeed, be a <hi>Memento</hi> to her of her Original Guilt, but 'twill by no means excuſe her from the performance of her preſent Duty; nay, ra<g ref="char:EOLhyphen"/>ther if ſhould be a Motive of her greateſt diligence. Man
+<pb n="7" facs="tcp:62275:4"/>in his Innocency had nothing of Moroſity and Sower<g ref="char:EOLhyphen"/>neſs in his Nature, but had all that Affability and Sweet<g ref="char:EOLhyphen"/>neſs of Temper as rendred him highly endeared to his Yoak-fellow: He was then ſo kind, and Good-humour<g ref="char:EOLhyphen"/>ed, that he requir'd nothing at her hands, but what ſhe could perform with delight and eaſe; all his Commands were ſo full of Charms, that the Woman muſt firſt have offered violence to her own Inclinations, before that ſhe could have been able to have reſiſted them.</p>
+            <lg>
+               <l>He Rul'd, and ſhe Obey'd; yet ſhe</l>
+               <l>Did, in Obeying, Rule as well as he</l>
+            </lg>
+            <p>Until that fatal Hour came, when the Woman ſedu<g ref="char:EOLhyphen"/>ced her Husband from his Innocency; and then the Na<g ref="char:EOLhyphen"/>ture of Man was ſadly chang'd, his Temper grew harſh and ſevere, and Humours became troubleſome and te<g ref="char:EOLhyphen"/>dious; ſo that the Pleaſing of him is now become a bu<g ref="char:EOLhyphen"/>ſineſs that requires a great deal of Art and Skill, of Di<g ref="char:EOLhyphen"/>ligence and Induſtry; and ſhe that is married, divides her Mind into divers Thoughts, caſt about every way, and uſeth variety of Methods to pleaſe her Husband: And this I believe is experienc'd Truth with moſt Wo<g ref="char:EOLhyphen"/>men; which if it be, you may thank your Mother <hi>Eve</hi> for it, who, when ſhe had gotten a good Natur'd and Loving Husband, that was eaſy to be pleas'd, could not then be contented, but muſt try Practices with him, till ſhe had ſpoil'd him; which prov'd fatal, not only to her, but to her Daughters alſo; who, if they have Husbands, and have them good too, muſt take a great deal of Care and Pains to make them ſo.</p>
+            <p n="3">3. Becauſe upon the doing or neglecting of this, the Happineſs or Miſery of a Married Life doth depend. <hi>A good Wife,</hi> (ſays one) <hi>ſhould be like a Mirrour which hath no Image of its own, but receives its Stamp and Image from the Face that looks into it: So ſhould a good Wife endeavour to frame her outward Deportment, and her inward Affections ac<g ref="char:EOLhyphen"/>cording to her Husband's; to rejoyce when he rejoyceth, to be ſad when he mourns, to grieve and be troubled when he is of<g ref="char:EOLhyphen"/>fended and vexed:</hi> And would Women thus endeavour
+<pb n="8" facs="tcp:62275:5"/>to do, they would not only content and pleaſe their Husbands, but they would thereby open a way for the obtaining of their Husbands what they themſelves do will and deſire; ſuch Wives may be ſooner tired in ma<g ref="char:EOLhyphen"/>king their Requeſts, than their Husbands would be in granting them; and their Husbands would think, that they could never do enough to gratify and oblige them: And where Matters are thus carried between Husband and Wife, the one ſubmiſſive and obedient, the other reſpectful and kind, how happy, how comfortably do they ſpend their days! But when the Wife ſhall act the reverſe of this, and inſtead of being careful to oblige and pleaſe her Husband, ſhall upon every little occa<g ref="char:EOLhyphen"/>ſion pout and loure, frown and fume, rail at and wran<g ref="char:EOLhyphen"/>gle with her Husband, making the Houſe too hot to hold him; if the Husband be of a rugged and reſolute Temper, and will retaliate the Affronts that are offer<g ref="char:EOLhyphen"/>ed him, I know no place in the World ſo like to <hi>Hell,</hi> as that Houſe wherein they dwell: But if the Husband be of a meek and patient Temper, the carriage and deport<g ref="char:EOLhyphen"/>ment of ſuch a Wife, tho' it cannot provoke him to vent his Paſſion in ſuch a ſtormy and tempeſtuous man<g ref="char:EOLhyphen"/>ner, yet it gives him thoſe inward wounds of Spirit, as make his Life ſhort and miſerable: <hi>The contentions of a Wife are a continual dropping,</hi> ſays the Wiſe-man (<hi>Prov.</hi> 9.13.) <hi>And</hi> (ſaith Biſhop <hi>Hopkings</hi> on the place) <hi>it is ſuch a dropping, as will at laſt eat and fret thro' his very Heart, tho' it were made of Stone. One of the beſt Miniſters that ever I knew for Piety, Learning, and Good-nature, (famous for Learned Tracts) had</hi> (ſaith a late Writer) <hi>an hard name, becauſe of his Wife's Complaints: he would ſay, all was a little Domeſtick talk; but that Domeſtick Talk broke his Heart, that before he died he ſaid,</hi> 
+               <q>God hath bleſſed me with ſome Parts, that I now begin to be uſeful in the World and muſt I now go out of the World, thro' the Hu<g ref="char:EOLhyphen"/>mour of a Woman? And many (ſaith he) die of the ſame Diſeaſe.</q> All Evils, as Elements, are moſt troubleſome out of their proper Places; as Profaneſs
+<pb n="9" facs="tcp:62275:5"/>in Miniſters, whoſe Work it is to beat it down; Inju<g ref="char:EOLhyphen"/>ſtice in Judges, whoſe Office it is to condemn it; and Diſcomfort in a Wife, who was made to be a Comfort: 'Twas this that gave riſe to the <hi>Proverb of Solomon</hi> [<hi>Prov.</hi> 21.9.] <hi>'Tis better to live in a corner of a Houſe Top, than with a brawling Woman in a wide Houſe.</hi> 'Tis much more deſirable to live poorly and ſolitary in the open Air, expoſed to all the Injuries of the Weather, nay to thruſt into a little corner on the Top of the Houſe, than to have a ſpatious Habitation, and numerous Family, go<g ref="char:EOLhyphen"/>vern'd by a contentious Wife, whoſe perpetual Scold<g ref="char:EOLhyphen"/>ing and Brawling within doors, upon the leaſt Occaſion is more intolerable than the Thunder and Lightning and bluſtring Winds, which may moleſt him without. <hi>'Tis an hundred pities</hi> (ſays Mr. <hi>Swynnock</hi>) <hi>that the Tongues of ſuch Shrews have not as many Bliſters as their Jaws have Teeth, and 'tis never better with their Husbands than when they are hoarſe.</hi> To conclude this Head, whilſt the good Wife that is careful to oblige her Husband, makes both him and her ſelf happy; the imperious, clamo<g ref="char:EOLhyphen"/>rous and turbulent Wife, that at every word ſpits Paſ<g ref="char:EOLhyphen"/>ſion and Poiſon, is a Torment and Vexation to her ſelf, and a pernicious Plague to her Husband.</p>
+            <p n="2">2. I come now in the Second place, to ſhew how, and which way, married Women muſt endeavour to pleaſe their Husbands.</p>
+            <p>And here there are three things they ought to do.</p>
+            <list>
+               <item>1. To Love them</item>
+               <item>2. To Honour them</item>
+               <item>3. To Obey them</item>
+            </list>
+            <p>All which you do ſolemnly Covenant and Engage be<g ref="char:EOLhyphen"/>fore God, Angels, and Men, when your Nuptial Rites are perfom'd. I have heard ſome Women ſay indeed, that they never did, nor would ſay thoſe Words after the Miniſter; but I think then, thoſe Miniſters were very remiſs in their Office; and had I been to have offi<g ref="char:EOLhyphen"/>ciated, thoſe Women ſhould have been content to have ſtay'd for Husbands till they had been willing to have ſpoken out, <hi>Love, Honour,</hi> and <hi>Obey;</hi> which are Du<g ref="char:EOLhyphen"/>ties,
+<pb n="10" facs="tcp:62275:6"/>the performance of which is abſolutely neceſſary to maintain both the Honour and Happineſs of a Mar<g ref="char:EOLhyphen"/>ried State, and is the only proper Method that Women can take to pleaſe their Husbands, as I ſhall ſhew more particularly.</p>
+            <p>
+               <hi>Firſt,</hi> Every married Woman, in order to pleaſe her Husband, ought to love him: Let every Woman love her Husband, as the chiefeſt and beſt for her of Ten Thouſands; for whoſe ſake ſhe can forget her own People, and her Father's Family; with whoſe Com<g ref="char:EOLhyphen"/>pany and Converſe ſhe can be contented and pleaſed, ſhould all the VVorld beſides be annihilated; and tho' even Nature does teach a VVoman to love her Hus<g ref="char:EOLhyphen"/>band, yet God does alſo enjoin it, [<hi>Tit.</hi> 2.4.] <hi>That they may teach the young Women to be ſober, and to love their Husbands,</hi> &amp;c. <hi>Partly</hi> (ſaith one) <hi>becauſe ſome Women have put off Nature, and are become wild, without Natural Affection; and partly becauſe God would have the Wife's Love to her Husband to proceed not ſo much from an Inſtinct of Na<g ref="char:EOLhyphen"/>ture, as from Obedience to Scripture.</hi> And the <hi>Apoſtles</hi> con<g ref="char:EOLhyphen"/>fines this precept to Young VVomen too, thereby ſug<g ref="char:EOLhyphen"/>gecting to us, that 'tis the Duty of a VVoman, newly married eſpecially, to uſe all means to endear her Hus<g ref="char:EOLhyphen"/>band to her ſelf, and her ſelf to her Husband; and care<g ref="char:EOLhyphen"/>fully to avoid all Occaſion of Differences with her Hus<g ref="char:EOLhyphen"/>band, at her firſt Entrance into that State. Agreeable to which, I remember, <hi>Plutarch,</hi> amongſt his <hi>Conjugal Precepts,</hi> hath this for one, <hi>viz. That it behoves thoſe People that are newly married, to avoid the firſt Occaſion of Diſcord and Diſſention, conſidering that Veſſels newly formed and ſub<g ref="char:EOLhyphen"/>ject to be bruiſed, and put out of ſhape by many ſlight accidents; but when the Materials come to be ſettled and hardned by Time, nor Fire, nor Sword will hardly prejudice the Solid Subſtance.</hi> 'Tis a common fooliſh Pactice of young Women, dur<g ref="char:EOLhyphen"/>ing the Time of Courtſhip, to uſe all the Arts and Me<g ref="char:EOLhyphen"/>thods they can contrive or deviſe, to charm their Lovers and captivate the Affections of thoſe who make their Addrſſes to them; you may read, <hi>Come love me</hi> in the
+<pb n="11" facs="tcp:62275:6"/>pleaſantneſs of their Looks, in the neatneſs of their Dreſs, in the Diſcretion of their Words, in the oblig<g ref="char:EOLhyphen"/>ingneſs of their Carriage and Deportment; but they are no ſooner married, but they grow as remiſs and careleſs in their Endeavours to pleaſe their Husbands, as before they were zealous in arting their Charms: Now their pleaſant Smiles are turn'd into Frowns, the neat<g ref="char:EOLhyphen"/>neſs of their Dreſs into Sluttery. She who opened her Mouth with Wiſdom, in whoſe Tongue was the Law of Kindneſs, now ſpeaks unadviſedly with her Lips, and carries her ſelf ſo diſreſpectful towards her Hus<g ref="char:EOLhyphen"/>band, as if ſhe ſtudied how to diſoblige him, and to ali<g ref="char:EOLhyphen"/>enate his Affections from her; by which means many times Women make themſelves to become the Wives of Madmen and Sots; whereas had they been as care<g ref="char:EOLhyphen"/>ful after their Marriage to have pleas'd their Husbands, as they were before, they might have made their Hus<g ref="char:EOLhyphen"/>bands happy, and themſelves too; and had they had that Conjugal Love, which they ought to have had, they would have done it; for Love is an Affection that will render Perſons active and diligent to content and pleaſe thoſe who are beloved by them; and when the Wife has ſo much Love for her new Husband, as to make her careful to oblige, and fearful to offend him, in pro<g ref="char:EOLhyphen"/>ceſs of time ſhe will ſoon engage his Affections to her, as that ſhe may defy the World to alienate them from her. VVhen two Boards are firſt glued together, a ſmall matter will looſen them; but if carefully look<g ref="char:EOLhyphen"/>ed to till they are well faſtened, and the Glue be hardned 'twill not be an eaſy matter to disjoint or ſever them.</p>
+            <p>
+               <hi>Secondly,</hi> Married VVomen, in order to pleaſe their Husbands, ought to honour them. The <hi>Perſian</hi> Ladies have the reſemblance of a Foot worn on the top of their Coronets, in token that the height of their Glory, <hi>Top<g ref="char:EOLhyphen"/>knot</hi> and all, does ſtoop to their Husbands Feet. And here the Honour which is due from the VVife to the Husband, is either,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Internal, or</item>
+                  <pb n="12" facs="tcp:62275:7"/>
+                  <item>
+                     <hi>Secondly,</hi> External.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Internal. And this is when ſhe cheriſheth an high Eſteem of him in her Mind, when ſhe thinks on him as one whom God hath appointed and ordained to be her Superiour and Head. The <hi>Apoſtle,</hi> (1. <hi>Cor.</hi> 11.7.) calls the VVoman <hi>the Glory of the Man,</hi> and that too, as one thinks, for this Reaſon, becauſe 'tis an high Honour to him, that ſo Excellent a Creature as a VVo<g ref="char:EOLhyphen"/>man is ſhould be his Inferiour: Surely then a VVoman that harboureth mean and contemptuous Thoughts of her Husband, is her Husband's Shame and Diſgrace; and tho' VVomen may think, that their Thoughts are free, that they are at Liberty to think as they pleaſe, yet let them know, that the Heart-ſearching God takes Cognizance of their Thoughts, and is very much diſ<g ref="char:EOLhyphen"/>pleaſed when he finds any to be ſuch as are beneath the Dignity and Excellency of the Husband. If <hi>Michal</hi> de<g ref="char:EOLhyphen"/>ſpiſeth <hi>David</hi> in her Heart, God makes his Curſe to fall upon her; and tho' ſhe diſhonour her Husband ſecretly in her Thought, God makes her a publick Example of his Diſpleaſure, by puniſhing her with Barrenneſs, which in thoſe days made a VVoman very contemtible: and therefore you find, that when <hi>Elizabeth</hi> had brought forth a Child, ſhe triumphs in it, and ſays, <hi>God hath ta<g ref="char:EOLhyphen"/>ken away my Reproach,</hi> [<hi>Luke</hi> 1.25.] for which ſome give this Reaſon: The <hi>Meſſias</hi> being promiſed to come of the Race of the <hi>Jews,</hi> every teeming VVoman had the hopes of being the Parent or proparent at leaſt of him. But there is.</p>
+            <p>
+               <hi>Secondly,</hi> External Honour: which is when that high Eſteem which the VVoman hath of her Husband, is ex<g ref="char:EOLhyphen"/>preſſed or declared either in VVords or Actions, giv<g ref="char:EOLhyphen"/>ing thoſe Titles which may beſpeak the Dignity and Excellency of his Perſon: So <hi>Sarah</hi> called her Husband <hi>Lord,</hi> and is commended for it, as being a fit Pattern for other VVomen to imitate, [1. <hi>Pet.</hi> 3.6.] 'Tis a Cuſtom more common than comely, for VVomen to call their Husbands by their Chriſtian Names, as our
+<pb n="13" facs="tcp:62275:7"/>
+               <hi>John,</hi> and our <hi>Thomas, &amp;c.</hi> as if they eſteemed them at no higher a rate than their very Servants that attend them; nay, it may be they will call them by reproach<g ref="char:EOLhyphen"/>ful Names, ſuch as <hi>Fool, Sloven, Clown, Sot, &amp;c.</hi> and what they have to ſay for their Vindication, I know not; but if words are thoughts Interpreters, we may ſhrewdly Gueſs what it is they aim at. Thoſe VVo<g ref="char:EOLhyphen"/>men who will not condeſcend to give their Husbands the Title of <hi>Lord</hi> and <hi>Maſter,</hi> it is to be feared will not ſcru<g ref="char:EOLhyphen"/>ple in little time to uſurp that Authority which that Ti<g ref="char:EOLhyphen"/>tle doth imply; and the Husband may quickly expe<g ref="char:EOLhyphen"/>rience what it is to be under the Diſcipline of the <hi>Apron.</hi> The VVoman is oblig'd to honour her Husband by her Actions: Her deportment and carriage, in all that ſhe doth, ſhould be ſuch, as may evidence the Honourable Opinion ſhe has of him, as her <hi>Lord</hi> and <hi>Head;</hi> and tru<g ref="char:EOLhyphen"/>ly this will much facilitate the Performance of the next Duty you are bound to, which is,</p>
+            <p>
+               <hi>Thirdly,</hi> to obey them: And however light Women may make of this, yet I know not of any duty belonging Men or VVomen, in the whole Book of God, that is urged with more Vehemency, or preſſed with ſtron<g ref="char:EOLhyphen"/>ger or more cogent Reaſons than this is. Subjection and Obedience to their Husbands is required from VVives, as abſolutely and peremtorily as unto Chriſt himſelf, [<hi>Epheſ.</hi> 5.22] <hi>Wives ſubmit to your Husbands, as unto the Lord;</hi> and is extended to all the Husband's commands, <hi>Ver.</hi> 24. <hi>Therefore as the Church is ſubject unto Chriſt, ſo ſhould the Wives be to their Husbands, in Every thing.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> But what if an Husband commands the Wife to do that which is ſinful?</p>
+            <p>
+               <hi>Anſ.</hi> By <hi>Every thing</hi> in the Text, is meant all that comes within the compaſs of his Authority to command; and certainly God never gave to any Man Authority to command that which is contradictory to his own Laws; excepting this, or the Impoſibility of the thing com<g ref="char:EOLhyphen"/>manded to be done both God and Nature hath giv<g ref="char:EOLhyphen"/>en the Husband Authority to Command, and the
+<pb n="14" facs="tcp:62275:8"/>Wife is bound to obey, however unneceſſary or unfit ſhe may think it to be: <hi>Otherwiſe</hi> (ſays Biſhop <hi>Hopkins</hi>) <hi>when the</hi> Apoſtle <hi>commands Wives to be ſubject to their Hus<g ref="char:EOLhyphen"/>bands in Every ahing, it would ſignifie no more than Every thing which they think fit.</hi> And this certainly is no great<g ref="char:EOLhyphen"/>er a Subjection than every Husband will readily yield to his Wife, and falls infinitely ſhort of the <hi>Apoſtle's</hi> In<g ref="char:EOLhyphen"/>tent, who requires the Subjection of the Wife to the Husband in Every thing, as the Church is ſubject unto <hi>Chriſt,</hi> which certainly is not in every thing ſhe thinks fit; neither ought ſhe to take upon her to Judge or Re<g ref="char:EOLhyphen"/>ject his Laws, but to fulfil them: And tho' this Duty may ſeem, on the firſt View, to be difficult, yet in con<g ref="char:EOLhyphen"/>junction with the two former, it will become eaſie and pleaſant. Love your Husbands as you ought, and you will not refuſe to honour them; if you love and ho<g ref="char:EOLhyphen"/>nour them, you will not ſcruple to obey them; and if you love, honour, and obey them, you will then do what becomes good Wives, and indeed what is, or ſhould be at lead ſufficient to pleaſe your Husbands. And therefore, for a Concluſion of what I have to ſay to you Married Women, let this be your <hi>Motto,</hi> and let it be woven with threds of Gold in the Ornaments of your Heads, <hi>viz. LOVE, HONOUR,</hi> and <hi>O<g ref="char:EOLhyphen"/>BEY,</hi> and carry it accordingly in your Practices to<g ref="char:EOLhyphen"/>wards your Husbands, and I am perſwaded that you'll find as great a ſcarcity of bad Husbands <hi>then,</hi> as there is of good Wives <hi>now.</hi> I come now to the Improvement of this Doctrine, which invites me to apply my ſelf to you Men, and that too both to the Married and Un<g ref="char:EOLhyphen"/>married.</p>
+            <p>
+               <hi>Firſt,</hi> To you that are ſingle and unmarried, you may from this Doctrine learn how great a Friend Reli<g ref="char:EOLhyphen"/>gion is to the Comfort and Happineſs of Man in this Life, in the Inſtitution whereof God hath not only wiſe<g ref="char:EOLhyphen"/>ly conſulted the Intereſt of his own Honour and Glory, but hath graciouſly condeſcended to adapt its Precepts to the Comfort and Happineſs of Man in every State
+<pb n="15" facs="tcp:62275:8" rendition="simple:additions"/>and Condition of Life; you are now ſingle, but it may be you have deſigns of altering your condition by Mar<g ref="char:EOLhyphen"/>riage; and if you do, God hath given ſuch Laws for your Wife to obſerve, as will, if duly regarded, make her an <hi>Help-meet</hi> for you: and ſuch a Wife it behoves you to chooſe, if ever you would be happy in that State: If you marry a carnal and graceleſs Wife, void of the fear of God, ſhe will perhaps ſcoff at all that I have ſaid and will be careful for nothing but to pleaſe her ſelf, and gratify her own wild and extravagant Inclination; but if you <hi>Marry in the Lord, i. e.</hi> if you marry a Wife that truly fears God, and lives in an habitual obedience to his Commands, ſhe will make conſcience of loving, honouring, and obeying, and be extraordinary careful to pleaſe you in all things.</p>
+            <p>
+               <hi>Secondly,</hi> To you who are Married: You have heard how great an Obligation is lain on your Wives, to love, honour and obey you, and to endeavour to pleaſe you in all things; remember that their Duty is hard, the frailty of that Sex is great, and therefore beware of ma<g ref="char:EOLhyphen"/>king their task more difficult than neceſſity doth require, or than their Nature will bear; tho' 'tis true they are in ſubjection, yet ſtill remember they are part of your ſelves, and therefore let your Authority be united with love, as your love muſt be governing love, ſo let your commands be loving commands. In the ſame Chapter, where the Wife is commanded to be ſubject to her Husband, as the Church is to Chriſt, ſhe Husband alſo is commanded to love his Wife, as Chriſt loved the Church; which one will have to be expreſſed in theſe four Particulars:
+<list>
+                  <item>
+                     <hi>Firſt,</hi> by bearing with and pardoning her weakneſs.</item>
+                  <item>
+                     <hi>Secondly,</hi> By being willing to ſubmit to many Incon<g ref="char:EOLhyphen"/>veniences for her ſake.</item>
+                  <pb n="16" facs="tcp:62275:9"/>
+                  <item>
+                     <hi>Thirdly,</hi> by interpoſing your ſelf betwixt her and dangers.</item>
+                  <item>
+                     <hi>Fourthly,</hi> By endeavouring to promote her Spiritual Good and Welfare.</item>
+               </list>
+            </p>
+            <p>But I muſt forbear enlargement, leaſt, that, by over<g ref="char:EOLhyphen"/>lading the memories of the Women, I ſhould cauſe them to forget their Duty which has been ſet before them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
